@@ -23,4 +23,10 @@ body {
   box-shadow: rgb(169, 169, 169) 0 0 20px;
   border-radius: 20px;
 }
+
+p {
+  width: 350px;
+  
+}
+
 /************** Footer *************//*# sourceMappingURL=style.css.map */

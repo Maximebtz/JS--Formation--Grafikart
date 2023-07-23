@@ -99,3 +99,9 @@
 
 
 // 3
+
+    const phrase = "La méthode sort() trie les éléments d'un tableau, dans ce même tableau, et renvoie le tableau. Par défaut, le tri s'effectue sur les éléments du tableau convertis en chaînes de caractères et triées selon les valeurs des unités de code UTF-16 des caractères."
+    const frequecies = {}
+    const words = phrase.split('. ')
+
+    console.log(words)
