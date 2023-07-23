@@ -10,8 +10,17 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: #404258;
   color: ghostwhite;
+  padding: 50px;
 }
 
 /************** Header **************/
 /************** Wrapper **************/
+.jose {
+  height: 70px;
+  width: 70px;
+  background-color: darkgray;
+  border:  solid 2px;
+  box-shadow: rgb(169, 169, 169) 0 0 20px;
+  border-radius: 20px;
+}
 /************** Footer *************//*# sourceMappingURL=style.css.map */
